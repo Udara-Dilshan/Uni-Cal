@@ -43,12 +43,6 @@ You can download the APK file for the mobile version of the app from the followi
 
 [Download Uni-Cal APK](https://drive.google.com/file/d/1nZvXH-TPUhlHPYPDdw9oxm28fFcMw9BU/view?usp=sharing)
 
-### For Web
-
-1. Visit the app's hosted site: [Uni-Cal on Tiiny.host](https://[YOUR_APP_URL].tiiny.host)
-
-### For Mobile
-
 1. Download the APK from the link above and install it on your Android device.
 2. Open the app and start calculating your GPA!
 
